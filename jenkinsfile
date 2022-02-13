@@ -1,6 +1,6 @@
 pipeline {
     agent none
-   def mvnHome
+   def mvnHome = 'M3'
    stage('Preparation') { // for display purposes
       // Get some code from a GitHub repository
       git 'https://github.com/Madhubokka/java-jar-maven.git'

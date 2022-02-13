@@ -1,0 +1,40 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'C:/src_code/tonexus/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/src_code/tonexus/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'my-maven 5.0.0 API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/src_code/tonexus/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'my-maven 5.0.0 API'
+com.scmgalaxy.mavensample
+'C:/src_code/tonexus/src/main/java/com/scmgalaxy/mavensample/App.java'
+C:\src_code\tonexus\src\main\java = 1644705103635
+C:\src_code\tonexus\target\apidocs\allclasses-frame.html = 1644715860314
+C:\src_code\tonexus\target\apidocs\allclasses-noframe.html = 1644715860315
+C:\src_code\tonexus\target\apidocs\constant-values.html = 1644715860287
+C:\src_code\tonexus\target\apidocs\deprecated-list.html = 1644715860312
+C:\src_code\tonexus\target\apidocs\help-doc.html = 1644715860320
+C:\src_code\tonexus\target\apidocs\index-all.html = 1644715860308
+C:\src_code\tonexus\target\apidocs\index.html = 1644715860317
+C:\src_code\tonexus\target\apidocs\javadoc.bat = 1644715584652
+C:\src_code\tonexus\target\apidocs\overview-tree.html = 1644715860304
+C:\src_code\tonexus\target\apidocs\package-list = 1644715860259
+C:\src_code\tonexus\target\apidocs\script.js = 1644715860322
+C:\src_code\tonexus\target\apidocs\stylesheet.css = 1644714341336
